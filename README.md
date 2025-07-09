@@ -1,6 +1,6 @@
 # Hi, I'm Justin
-- 🖥️ Aspiring developer
-- 🏗️ Interest in cloud computing, cybersecurity, and backend programming
+- 🏗️ Aspiring developer
+- 🖥️ Interest in cloud computing, cybersecurity, and backend programming
 - 🦀 I've recently been studying Python, Rust, and Terraform
 
 ## Skillset
